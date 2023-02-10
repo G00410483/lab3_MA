@@ -26,4 +26,6 @@ class MyClass implements myInterface {
         console.log(myArray.length);
         return myArray.length;
     }
+
+
 }
